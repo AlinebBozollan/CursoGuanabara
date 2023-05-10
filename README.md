@@ -1,0 +1,2 @@
+# CursoGuanabara
+ Exercicios em Python
